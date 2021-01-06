@@ -1,0 +1,129 @@
+body{
+    margin: 0px;
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 70px;
+    margin-bottom: 0%;
+}
+.name-highlight{
+    color: tomato;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color: dimgray;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    padding-top: 0%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+section{
+    height: 600px;
+}
+.introduction{
+    background-repeat: no-repeat;
+}
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(145deg,#037aff,#f86a61);
+    padding:10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800; 
+    font-family: 'Poppins', sans-serif;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
+.about-me{
+    width: 40%;
+    float: right;
+    margin-right: 05%;
+    padding-right: 2%;
+}
+h2{
+    font-size: 50px;
+}
+.about-me img{
+    width: 90%;
+}
+.about{
+    background-repeat: no-repeat;
+}
+.download-cv{
+        text-decoration: none;
+        background-image: linear-gradient(145deg,#0374a9, white );
+        padding:10px 25px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 800; 
+        font-family: 'Poppins', sans-serif;
+}
+.project{
+    text-align: center;
+}
+
+.latest-project{
+    height: 600px;
+    background-color:  #E5E5E5;;
+}
+.work-example{
+    width: 25%;
+    float: left;
+    margin-left:  5%;
+    background-repeat: no-repeat;
+    padding: 1%;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+.work-example img{
+    width: 100%;
+}
+h3{
+    text-align: center;
+}
+.lets-chat{
+    margin: auto;
+    text-align: left;
+    color: white;
+    padding: 40px;
+    width: 40%;  
+    font-weight: 700;
+    border-radius: 10px;
+    
+}
+.lets-chat img{
+    width: 120%
+
+}
+#chat-now{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 5%;
+
+}
+
+.work{
+    font-size: 75px;
+    margin-top: 2%;
+    position: absolute;
+    margin-left: 1%;
+    padding-top: 1%;
+}
+
