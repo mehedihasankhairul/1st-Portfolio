@@ -2,6 +2,23 @@ body{
     margin: 0px;
     font-family: 'Bebas Neue', cursive;
 }
+.nav-bar{
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    margin-left: 65%;
+    font-weight: 700;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.nav-bar a{
+    float: left;
+    color: #757474;
+    text-align: center;
+    padding: 20px 25px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
 h1{
     font-size: 70px;
     margin-bottom: 0%;
@@ -116,7 +133,6 @@ h3{
     position: absolute;
     margin-left: 40%;
     margin-top: 5%;
-
 }
 
 .work{
@@ -126,4 +142,21 @@ h3{
     margin-left: 1%;
     padding-top: 1%;
 }
-
+.icons{
+    margin-left: 45%;
+}
+.icons img{
+    width: 05%;
+    position: center;
+}
+.stay-connect {
+    height: 100px;
+    width: 80%;
+    background: white;
+}
+.stay {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    font-weight: 100;
+}
